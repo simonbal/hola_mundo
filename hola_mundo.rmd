@@ -2,7 +2,7 @@
 title: "Hola Mundo"
 author: "Simon Ballesteros"
 date: "18 de junio de 2018"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
